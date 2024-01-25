@@ -1,0 +1,11 @@
+{
+  "name": "asset-app-api",
+  "version": "1.0.0",
+  "description": "API for Asset App as part of WorldSkills 2024 Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan A",
+  "license": "ISC"
+}
